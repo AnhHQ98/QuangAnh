@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background: rgb(179, 255, 255);
+}
+header img{
+    width: 50px;
+    position: center center;
+}
+/* intro */
+#intro img{
+    width: 100%;
+}
+/* edu */
+#edu img{
+    width: 100%;
+}
+#edu .bor{
+    border-radius: 25px;
+}
+/* skill */
+#skill img{
+    width: 50px;
+}
+#skill .special-img-css{
+    width: 35px;
+}
+#skill .special-img-cad{
+    width: 75px;
+}
+#cont form{
+    background: #f00;
+}
+/* cont */
+#cont form{
+    background: linear-gradient(#0aadea, #b722ff);
+}
+#cont button{
+    width: 100%;
+    background: #00f;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding: 10px;
+}
+/* footer */
+footer{
+    background: rgb(26, 52, 59);
+    color: #fff;
+}
+footer a{
+    padding: 12px;
+    border-radius: 50%;
+}
+footer .fa-facebook{
+    background: rgb(19, 30, 187);
+}
+footer .fa-instagram{
+    background: linear-gradient(#5b2dcb, #af1a82, #ef4f35);
+}
+footer .fa-twitter{
+    background: #1d9bf0;
+}
+footer .fa-linkedin{
+    background: #0a66c2;
+}
